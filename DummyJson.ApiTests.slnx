@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DummyJson.Tests/DummyJson.Tests.csproj" />
+  </Folder>
+</Solution>
