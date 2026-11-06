@@ -68,3 +68,9 @@ src/DummyJson.Tests
 - Add negative scenarios (invalid credentials → 400, expired or missing token → 401, unknown id → 404).
 - Add HTML living documentation (Reqnroll LivingDoc) and a GitHub Actions workflow that runs the suite on every push.
 - Add retries for transient network errors on the public endpoint (for example a Polly handler in the `HttpClient` pipeline).
+
+## AI Disclaimer
+
+- AI assistance was used to explore the DummyJSON API endpoints and to help create the request/response models from the API responses.
+- AI was used for small refactors and for writing and updating this README.
+- I designed, wrote, reviewed and tested the test scenarios, step definitions and final code myself.
